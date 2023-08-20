@@ -13,13 +13,13 @@ Here are some resources that we have made available recently.
 
 Here are some corpora we released:
 
-* eLife Open Peer Review Corpus, <https://doi.org/10.18150/FKPEQN>
+-  eLife Open Peer Review Corpus, <https://doi.org/10.18150/FKPEQN>
 
-* PLoS Open Peer Review Corpus, <https://doi.org/10.18150/KZHVGE>
+-  PLoS Open Peer Review Corpus, <https://doi.org/10.18150/KZHVGE>
 
-* MDPI Open Peer Review Corpus, <https://doi.org/10.18150/D5L2EK>
+-  MDPI Open Peer Review Corpus, <https://doi.org/10.18150/D5L2EK>
 
-* MDPI Open Peer Review Corpus 2 (much bigger), <https://doi.org/10.18150/SHKP7B>
+-  MDPI Open Peer Review Corpus 2 (much bigger), <https://doi.org/10.18150/SHKP7B>
 
 The MDPI data set in the version 2 is much bigger -- the crawler we used was upgraded to find more data. It is probably the biggest open peer review corpus out there. If you are using our datasets, please cite them using the DOI number.
 
