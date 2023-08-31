@@ -9,7 +9,7 @@ Here are some resources that we have made available recently.
 
 ## Corpora
 
-### Peer Review corpora -- open data sets
+### Peer Review corpora - open data sets
 
 Here are some corpora we released:
 
@@ -37,6 +37,10 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 ## Papers and preprints
 
+- Miłkowski, M. (2023). Cognitive Metascience: A New Approach to the Study of Theories. PsyArXiv. <https://doi.org/10.31234/osf.io/xvyz3>
+
+> This paper presents the cognitive metascience approach, in particular the account of scientific theories in terms of cognitive artifacts whose contents are not fully accountable for in terms of data. It's forthcoming in the Polish *Review of Psychology*, vol. 66, issue 1 (2023).
+
 -   Hensel, W. M., Miłkowski, M., & Nowakowski, P. (2022). Without more theory, psychology will be a headless rider. *Behavioral and Brain Sciences*, *45*, e20. <https://doi.org/10.1017/S0140525X21000212>
 
 > In this commentary to Yarkoni's paper, we argue that psychology needs more explicit theory development, which can start from fairly mundane claims.
@@ -55,7 +59,9 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 ## Talks
 
-Hensel, W., & Miłkowski, M. (2022, October 22*). What Makes Hypotheses Accurate? An Empirical Study. Presented at the Hypothesis in science. *On the 550th anniversary of the birth of Nicolaus Copernicus, Uniwersytet im. Mikołaja Kopernika, Poland, Toruń.
+Miłkowski, M. (2023, June 28). The Significance of Theories in Neuroscience: Exploring Their Role in Reproducibility and Discovery. Presented at the Nencki School of Ideas in Neuroscience, Instytut Biologii Doświadczalnej im. M. Nenckiego PAN, Poland, Warszawa. Poland, Warszawa.
+
+Hensel, W., & Miłkowski, M. (2022, October 22). What Makes Hypotheses Accurate? An Empirical Study. Presented at the Hypothesis in science. *On the 550th anniversary of the birth of Nicolaus Copernicus, Uniwersytet im. Mikołaja Kopernika, Poland, Toruń.
 
 Hvorecky, J., & Miłkowski, M. (2022, August 29). *[Theoretical Virtues of Cognitive Extension](https://youtu.be/AohZvaOqik0)*. Presented at the Mind and Technology Congress, Coimbra University, Portugal, Coimbra.
 
