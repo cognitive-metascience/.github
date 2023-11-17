@@ -39,7 +39,7 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 - Miłkowski, M. (2023). Cognitive Metascience: A New Approach to the Study of Theories. PsyArXiv. <https://doi.org/10.31234/osf.io/xvyz3>
 
-> This paper presents the cognitive metascience approach, in particular the account of scientific theories in terms of cognitive artifacts whose contents are not fully accountable for in terms of data. It's forthcoming in the Polish *Review of Psychology*, vol. 66, issue 1 (2023).
+> This paper presents the cognitive metascience approach, in particular the account of scientific theories in terms of cognitive artifacts whose contents are not fully accountable for in terms of data. It's forthcoming in the Polish *Review of Psychology*, vol. 66, issue 1 (2023). The Polish translation of the paper is already out: <https://doi.org/10.31648/przegldpsychologiczny.9459>
 
 -   Hensel, W. M., Miłkowski, M., & Nowakowski, P. (2022). Without more theory, psychology will be a headless rider. *Behavioral and Brain Sciences*, *45*, e20. <https://doi.org/10.1017/S0140525X21000212>
 
@@ -58,6 +58,7 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 > We claim that low model reproducibility poses more of a threat to long-term scientific progress than low model replicability and reports of computational studies should remain selective and include all and only relevant bits of code.
 
 ## Talks
+Miłkowski, M. (2023, October 18). Peer Review of Code (in Scientific Research). Keynote presented at the HaPoC-7: 7th International Conference on the History and Philosophy of Computing, Politechnika Warszawska, Polska, Warszawa.
 
 Miłkowski, M. (2023, June 28). The Significance of Theories in Neuroscience: Exploring Their Role in Reproducibility and Discovery. Presented at the Nencki School of Ideas in Neuroscience, Instytut Biologii Doświadczalnej im. M. Nenckiego PAN, Poland, Warszawa. Poland, Warszawa.
 
