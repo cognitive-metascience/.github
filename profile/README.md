@@ -51,13 +51,15 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 -   Miłkowski, M. (2022). Cognitive Artifacts and Their Virtues in Scientific Practice, *Studies in Grammar, Logic, and Rhetoric* 67(3), 219-246. <https://doi.org/10.2478/slgr-2022-0012>
 
-> This paper describes the conceptual foundations of cognitive metascience: scientific representations are cognitive artifacts whose function we should study across multiple dimensions. A short glimpse on the virtues of models through corpora analysis is given.*
+> This paper describes the conceptual foundations of cognitive metascience: scientific representations are cognitive artifacts whose function we should study across multiple dimensions. A short glimpse on the virtues of models through corpora analysis is given.
 
--   Miłkowski, M., Hensel, W. M., & Hohol, M. (2018). Replicability or reproducibility? On the replication crisis in computational neuroscience and sharing only relevant detail.* Journal of Computational Neuroscience, *45(3), 163--172. <https://doi.org/10.1007/s10827-018-0702-z>
+-   Miłkowski, M., Hensel, W. M., & Hohol, M. (2018). Replicability or reproducibility? On the replication crisis in computational neuroscience and sharing only relevant detail. Journal of Computational Neuroscience, *45(3), 163--172. <https://doi.org/10.1007/s10827-018-0702-z>
 
 > We claim that low model reproducibility poses more of a threat to long-term scientific progress than low model replicability and reports of computational studies should remain selective and include all and only relevant bits of code.
 
 ## Talks
+Miłkowski M. (2023, November 20). Empirical evidence in conceptual engineering. Keynote delivered during the Romanian-Polish Workshop in Causation, Understanding, and Knowledge: New Perspectives and Challenges. University of Bucharest, Romanian Academy of Sciences, Institute of Philosophy and Sociology PAS, Bucharest, Romania.
+
 Miłkowski, M. (2023, October 18). Peer Review of Code (in Scientific Research). Keynote presented at the HaPoC-7: 7th International Conference on the History and Philosophy of Computing, Politechnika Warszawska, Polska, Warszawa.
 
 Miłkowski, M. (2023, June 28). The Significance of Theories in Neuroscience: Exploring Their Role in Reproducibility and Discovery. Presented at the Nencki School of Ideas in Neuroscience, Instytut Biologii Doświadczalnej im. M. Nenckiego PAN, Poland, Warszawa. Poland, Warszawa.
