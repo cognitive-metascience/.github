@@ -37,6 +37,10 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 ## Papers and preprints
 
+-   Rorot, W., & Miłkowski, M. (2023, December 13). Empirical evidence in conceptual engineering, or the defense of 'predictive understanding'. <https://doi.org/10.31234/osf.io/a2v4u>
+
+> In this draft (currently under review) we argue for the use of empirical evidence from digital philosophy in the practice of conceptual engineering, and provide a proof-of-principle by discovering an engineering the concept of 'predictive understanding' hitherto overlooked by philosophers working on understanding, but present in scientists' discourse.
+
 -   Hensel, W. M., Miłkowski, M., & Nowakowski, P. (2022). Without more theory, psychology will be a headless rider. *Behavioral and Brain Sciences*, *45*, e20. <https://doi.org/10.1017/S0140525X21000212>
 
 > In this commentary to Yarkoni's paper, we argue that psychology needs more explicit theory development, which can start from fairly mundane claims.
@@ -54,6 +58,8 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 > We claim that low model reproducibility poses more of a threat to long-term scientific progress than low model replicability and reports of computational studies should remain selective and include all and only relevant bits of code.
 
 ## Talks
+
+Rorot, W., & Miłkowski, M. (2023, July 11). _Distributional semantics in digital philosophy of science: Methodological sketch and a case study_ Presented at the biennial meeting of the International Society for the History, Philosophy, and Social Studies of Biology, University of Toronto, Canada.
 
 Hensel, W., & Miłkowski, M. (2022, October 22*). What Makes Hypotheses Accurate? An Empirical Study. Presented at the Hypothesis in science. *On the 550th anniversary of the birth of Nicolaus Copernicus, Uniwersytet im. Mikołaja Kopernika, Poland, Toruń.
 
