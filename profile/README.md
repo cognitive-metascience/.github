@@ -42,9 +42,9 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 > In this draft (currently under review) we argue for the use of empirical evidence from digital philosophy in the practice of conceptual engineering, and provide a proof-of-principle by discovering an engineering the concept of 'predictive understanding' hitherto overlooked by philosophers working on understanding, but present in scientists' discourse.
 
-- Miłkowski, M. (2023). Cognitive Metascience: A New Approach to the Study of Theories. PsyArXiv. <https://doi.org/10.31234/osf.io/xvyz3>
+- Miłkowski, M. (2023). Cognitive Metascience: A New Approach to the Study of Theories. Przegląd Psychologiczny, 66(1), 185-207. ><https://doi.org/10.31648/przegldpsychologiczny.9682>
 
-> This paper presents the cognitive metascience approach, in particular the account of scientific theories in terms of cognitive artifacts whose contents are not fully accountable for in terms of data. It's forthcoming in the Polish *Review of Psychology*, vol. 66, issue 1 (2023). The Polish translation of the paper is already out: <https://doi.org/10.31648/przegldpsychologiczny.9459>
+> This paper presents the cognitive metascience approach, in particular the account of scientific theories in terms of cognitive artifacts whose contents are not fully accountable for in terms of data. The Polish translation of the paper was published in the same journal: <https://doi.org/10.31648/przegldpsychologiczny.9459>
 
 -   Hensel, W. M., Miłkowski, M., & Nowakowski, P. (2022). Without more theory, psychology will be a headless rider. *Behavioral and Brain Sciences*, *45*, e20. <https://doi.org/10.1017/S0140525X21000212>
 
@@ -58,7 +58,7 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 > This paper describes the conceptual foundations of cognitive metascience: scientific representations are cognitive artifacts whose function we should study across multiple dimensions. A short glimpse on the virtues of models through corpora analysis is given.
 
--   Miłkowski, M., Hensel, W. M., & Hohol, M. (2018). Replicability or reproducibility? On the replication crisis in computational neuroscience and sharing only relevant detail. Journal of Computational Neuroscience, *45(3), 163--172. <https://doi.org/10.1007/s10827-018-0702-z>
+-   Miłkowski, M., Hensel, W. M., & Hohol, M. (2018). Replicability or reproducibility? On the replication crisis in computational neuroscience and sharing only relevant detail. *Journal of Computational Neuroscience*, *45*(3), 163--172. <https://doi.org/10.1007/s10827-018-0702-z>
 
 > We claim that low model reproducibility poses more of a threat to long-term scientific progress than low model replicability and reports of computational studies should remain selective and include all and only relevant bits of code.
 
