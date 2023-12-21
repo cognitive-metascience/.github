@@ -42,7 +42,7 @@ The project lacks full documentation etc., but we plan to add it in the next cou
 
 > In this draft (currently under review) we argue for the use of empirical evidence from digital philosophy in the practice of conceptual engineering, and provide a proof-of-principle by discovering an engineering the concept of 'predictive understanding' hitherto overlooked by philosophers working on understanding, but present in scientists' discourse.
 
-- Miłkowski, M. (2023). Cognitive Metascience: A New Approach to the Study of Theories. Przegląd Psychologiczny, 66(1), 185-207. ><https://doi.org/10.31648/przegldpsychologiczny.9682>
+- Miłkowski, M. (2023). Cognitive Metascience: A New Approach to the Study of Theories. Przegląd Psychologiczny (The Review of Psychology), 66(1), 185-207. <https://doi.org/10.31648/przegldpsychologiczny.9682>
 
 > This paper presents the cognitive metascience approach, in particular the account of scientific theories in terms of cognitive artifacts whose contents are not fully accountable for in terms of data. The Polish translation of the paper was published in the same journal: <https://doi.org/10.31648/przegldpsychologiczny.9459>
 
