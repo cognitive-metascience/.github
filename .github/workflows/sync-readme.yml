@@ -1,0 +1,51 @@
+name: Sync README
+
+on:
+  push:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+        with:
+          repository: cognitive-metascience/.github
+          path: source
+
+      - name: Checkout destination
+        uses: actions/checkout@v2
+        with:
+          repository: cognitive-metascience/cognitive-metascience.github.io
+          path: destination
+
+      - name: Copy README to destination root
+        run: |
+          cp source/README.md destination/README.md
+
+      - name: Create profile directory and copy README
+        run: |
+          mkdir -p source/profile
+          cp source/README.md source/profile/README.md
+
+      - name: Commit changes to destination
+        run: |
+          cd destination
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Sync README from .github repository" || echo "No changes to commit"
+          git push
+
+      - name: Commit changes to source
+        run: |
+          cd source
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile/README.md
+          git commit -m "Copy README to profile directory" || echo "No changes to commit"
+          git push
+
