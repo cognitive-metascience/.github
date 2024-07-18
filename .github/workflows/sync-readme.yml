@@ -16,6 +16,24 @@ jobs:
           repository: cognitive-metascience/.github
           path: source
 
+      - name: Check if destination repo exists
+        id: check_repo
+        run: |
+          if gh repo view cognitive-metascience/cognitive-metascience.github.io &>/dev/null; then
+            echo "::set-output name=exists::true"
+          else
+            echo "::set-output name=exists::false"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create destination repo if it doesn't exist
+        if: steps.check_repo.outputs.exists == 'false'
+        run: |
+          gh repo create cognitive-metascience/cognitive-metascience.github.io --public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Checkout destination
         uses: actions/checkout@v2
         with:
@@ -48,4 +66,3 @@ jobs:
           git add profile/README.md
           git commit -m "Copy README to profile directory" || echo "No changes to commit"
           git push
-
