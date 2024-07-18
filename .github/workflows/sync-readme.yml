@@ -30,7 +30,8 @@ jobs:
       - name: Checkout destination
         uses: actions/checkout@v3
         with:
-          repository: cognitive-metascience/cognitive-metascience.github.io
+          repository: cognitive-metascience/cognitive-metascience.github.io          
+          token: ${{ secrets.PAT_TOKEN }}
           ref: main
           path: docs
 
