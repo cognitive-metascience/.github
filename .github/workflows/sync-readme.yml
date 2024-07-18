@@ -11,9 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: cognitive-metascience/.github
+          ref: main
           path: source
 
       - name: Check if destination repo exists
@@ -35,7 +36,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout destination
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: cognitive-metascience/cognitive-metascience.github.io
           path: destination
