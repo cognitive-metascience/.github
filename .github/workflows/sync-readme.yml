@@ -27,13 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create destination repo if it doesn't exist
-        if: steps.check_repo.outputs.exists == 'false'
-        run: |
-          gh repo create cognitive-metascience/cognitive-metascience.github.io --public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Checkout destination
         uses: actions/checkout@v3
         with:
