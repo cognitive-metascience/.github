@@ -50,7 +50,7 @@ jobs:
           git config user.email github-actions@github.com
           git add docs/README.md
           git commit -m "Sync README to docs directory" || echo "No changes to commit"
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/cognitive-metascience/cognitive-metascience.github.io.git HEAD:main
+          git push https://${{ secrets.PAT_TOKEN }}@github.com/cognitive-metascience/cognitive-metascience.github.io HEAD:main
 
       - name: Commit changes to source
         run: |
