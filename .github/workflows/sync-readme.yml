@@ -59,4 +59,4 @@ jobs:
           git config user.email github-actions@github.com
           git add profile/README.md
           git commit -m "Update profile README" || echo "No changes to commit"
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/cognitive-metascience/.github HEAD:main
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/cognitive-metascience/.github HEAD:main
