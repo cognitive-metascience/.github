@@ -1,4 +1,4 @@
-# Cognitive Metascience Lab
+![Cognitive Metascience Lab](profile/logo_small.png) 
 ## Part of the [Section for Logic and Cognitive Science, Polish Academy of Sciences ](https://ifispan.pl/en/filozofia/logic-and-cognitive-science/)
 
 The goal of cognitive metascience is to unite cognitive science, philosophy of science, digital philosophy of science, and digital humanities to explore how researchers reflect on their scientific practice and provide normative guidance during the credibility crisis.
@@ -32,9 +32,13 @@ A pure [Python open source reimplementation of word sketches ](https://github.
 
 ## Papers and preprints
 
+- Miłkowski, M., & Nowakowski, P. (2025). Tracking norms: A plea for a normative digital philosophy of science. Synthese, 206(3), 120. https://doi.org/10.1007/s11229-025-05200-6
+
+> In this paper, we argue that digital philosophy of science can take a normative perspective, based on three complementary digital methods: tracking norm effectiveness, computational modeling research systems, and analyzing scientific discourse. To demonstrate our approach, we conduct a detailed analysis of how reviewers use the term “pseudoscience” in a large corpus of open peer review reports. 
+
 -   Rorot, W., & Miłkowski, M. (2024). Empirical evidence in conceptual engineering, or the defense of 'predictive understanding'. Forthcoming in *Conceptual Engineering. Methodological and Metaphilosophical Issues*, Piotr Stalmaszczyk (ed.), Brill / mentis. Preprint: <https://doi.org/10.31234/osf.io/a2v4u>
 
-> In this forthcoming chapter we argue for the use of empirical evidence from digital philosophy in the practice of conceptual engineering, and provide a proof-of-principle by discovering an engineering the concept of 'predictive understanding' hitherto overlooked by philosophers working on understanding, but present in scientists' discourse.
+> In this chapter we argue for the use of empirical evidence from digital philosophy in the practice of conceptual engineering, and provide a proof-of-principle by discovering an engineering the concept of 'predictive understanding' hitherto overlooked by philosophers working on understanding, but present in scientists' discourse.
 
 - Miłkowski, M. (2023). Cognitive Metascience: A New Approach to the Study of Theories. Przegląd Psychologiczny (The Review of Psychology), 66(1), 185-207. <https://doi.org/10.31648/przegldpsychologiczny.9682>
 
@@ -57,6 +61,8 @@ A pure [Python open source reimplementation of word sketches ](https://github.
 > We claim that low model reproducibility poses more of a threat to long-term scientific progress than low model replicability and reports of computational studies should remain selective and include all and only relevant bits of code.
 
 ## Talks
+
+Miłkowski, M. (27-30 August 2025), Functional Atlas of Theories, 10th biennial meeting of the European Philosophy of Science Association, EPSA25, University of Groningen
 
 Rorot, W., & Miłkowski, M. (2024, June 18). How predictive can understanding be in scientific practice? 6th SURe Workshop, London School of Economics,
 London, UK.
@@ -83,7 +89,9 @@ Miłkowski, M. (2018, November 25). *Replicability or reproducibility? On the r
 
 ## Funded projects
 
-[Wiktor Rorot](https://wiktor.rorot.pl/)'s project "Investigation of the use of the concept *communication* in biology and cognitive sciences" has been funded by the National Science Center. Under my supervision, he will study the notion of communication and related notions in life sciences, by relying on digital philosophy of science. The [popular description of the project ](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2022-03-15-ako9z8/streszczenia/558141-en.pdf)is also available on the funder site.
+- [Marcin Miłkowski](https://marcinmilkowski.pl)'s project "Theorizing the Mind:  Creating a Functional Atlas of Scientific Theories" focuses on understanding the notion of theory, also via the tools of cognitive metascience. The [popular description of the project ](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/651776-en.pdf) is available on the funder site.
+
+- [Wiktor Rorot](https://wiktor.rorot.pl/)'s project "Investigation of the use of the concept *communication* in biology and cognitive sciences" has been funded by the National Science Center. Under Miłkowski's supervision, he studied the notion of communication and related notions in life sciences, by relying on digital philosophy of science. The [popular description of the project ](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2022-03-15-ako9z8/streszczenia/558141-en.pdf)is also available on the funder site.
 
 ## Student projects
 
